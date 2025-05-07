@@ -1,0 +1,7 @@
+LA IA UTILIZADA FUE PARA EL CSS (IA UTILIZADA CURSOR) 
+
+Optimizar el esquema de colores y la paleta visual
+Mejorar la estructura del CSS y la organización del código
+Implementar efectos y animaciones modernas
+Asegurar la consistencia en el diseño responsive
+El resultado es una interfaz profesional, fácil de usar y visualmente atractiva que permite a los usuarios gestionar y mostrar sus proyectos de manera efectiva."
